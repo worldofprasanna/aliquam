@@ -4,27 +4,27 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: Prasanna V
 
 # Optional quote in the footer
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote.
-  author: John Doe
+  quote: Its not who you are underneath, its what you do, defines you.
+  author: Batman
 
 # Set this to your main site title
 # In the head - ff page doesnt have its own title,
 # Site title will be used instead
-title: Aliquam Theme - Author Dennis Grinch
+title: World of Prasanna - Author Prasanna
 
 # Description and title below nav in the header
 punch-line: true
 
 # Your logo for the header
 logo:
-  title: John Doe
-  subtitle: Designer & Developer
+  title: Prasanna
+  subtitle: Developer
 
 include:
   - pages

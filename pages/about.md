@@ -1,41 +1,37 @@
 ---
 layout: page
 title: About
-description: More information about me and this website.
+description: Developer who practices TDD and having passion to build software with Quality.
 ---
-
-I am ...
-
-## My skills
 
 <div id="skills">
 <div>
-<p><span>jekyll</span><span>95%</span></p>
-<progress value="95" max="100"></progress>
+<p><span>Java</span><span>80%</span></p>
+<progress value="80" max="100"></progress>
 </div>
 <div>
-<p><span>html</span><span>95%</span></p>
-<progress value="95" max="100"></progress>
+<p><span>Spring</span><span>80%</span></p>
+<progress value="80" max="100"></progress>
 </div>
 <div>
-<p><span>UX priciples</span><span>50%</span></p>
-<progress value="50" max="100"></progress>
+<p><span>Rails</span><span>70%</span></p>
+<progress value="70" max="100"></progress>
+</div>
+<div>
+<p><span>Design Principles</span><span>80%</span></p>
+<progress value="80" max="100"></progress>
+</div>
+<div>
+<p><span>React</span><span>70%</span></p>
+<progress value="70" max="100"></progress>
 </div>
 
 <div>
-<p><span>C/C++</span><span>20%</span></p>
-<progress value="20" max="100"></progress>
-</div>
-
-<div>
-<p><span>php</span><span>20%</span></p>
-<progress value="20" max="100"></progress>
+<p><span>Python</span><span>40%</span></p>
+<progress value="40" max="100"></progress>
 </div>
 </div>
 
-## Contact form
-
-{% include contact_form.html %}
 
 
 
