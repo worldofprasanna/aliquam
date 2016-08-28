@@ -79,6 +79,7 @@ include:
 gems:
   - jekyll-paginate
   - jekyll-sitemap # add /sitemap.xml file
+  - jekyll-gist
 
 paginate_path: /_pages/page:num
 
