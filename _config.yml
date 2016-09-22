@@ -48,7 +48,7 @@ baseurl:
 google_analytics: UA-84602255-1
 
 # Contact form pupublic key
-contact_PK:
+contact_PK: 26a37df6e654df5aa083068e0a6a439c
 
 ##########################################
 #          Optional variables
