@@ -45,7 +45,7 @@ url:
 baseurl:
 
 # Change this to your google analytics ID
-google_analytics:
+google_analytics: UA-84602255-1
 
 # Contact form pupublic key
 contact_PK:
