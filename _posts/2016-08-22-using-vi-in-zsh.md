@@ -27,7 +27,7 @@ Now happily ever after will use the `set -o vi`
 
 **Edit long commands easily**
 
-Though its not feature specific to vim, want to mention it here. If you are editing very big command and you want to open the command in the editor, make some changes (Though I didn t use it, coz its vim in command line, so it can be edited in commandline using vim bindings), it can be done so by pressing 'v' for vim mode. To enable this,
+Though its not feature specific to vim, want to mention it here. If you are editing very big command and you want to open it in the editor which might spawn across lines, make some changes (Though for single line command its not needed, coz its vim in command line so it can be edited in command line using vim bindings), it can be done so by pressing 'v' for vim mode. To enable this,
 
 ```
   autoload edit-command-line
