@@ -32,3 +32,22 @@ spent.
 6. Stop doing things which are not planned. Always have a plan and prepare
 for that and do it. It gives lot more satisfaction than just doing things
 which comes to me.
+
+What are the things I want to do:
+
+Already started, and came out of beginner level:
+1. Learn more about vim
+2. Write tamil kavithai, blog
+3. create beautiful sites. master css & styling.
+4. organise things in a perfect way.
+5. terraform, docker, aws course
+6. Read fav author s book and biography
+7. Gym. Shuttle. Jogging.
+
+Passionate about:
+1. UX. Adobe photoshop or simpler tools
+2. Bike internals. Dismantle and build it again.
+3. Communicate clearly and effectively. Always think from the perspective of
+listener.
+4. English. Its a beautiful lang too. Master at it.
+5. Telugu. Try to converse fluently in that.
