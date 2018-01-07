@@ -5,6 +5,8 @@ date:   2017-10-25 02:21:54 +0530
 tags: plan learning-path
 ---
 
+It was utter flop :-( - January 2018
+
 I thought of focusing on Devops this year and tried to learn few tools and practices around it. As it was a very broad area and priorities got changed, the goal got diluted and for the past few months haven t focused on anything in particular. So thought of looking at the courses I want to attend, books I had planned to read and make a plan for short period. For a month.
 
 So November month,
