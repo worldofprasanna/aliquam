@@ -13,6 +13,6 @@ Datastructures & Algo. Though it had been long time since I learnt those in coll
 
 Think well through the architecture. Should able to explain the whole project with the architecture components, what are the design choices made and why. Also to know about popular open source project and how the architecture was designed, eg: how job scheduling can be done in a better way. As we go deep into the question it drilled down to how hadoop works ? Or having knowledge about how hadoop works would be good.
 
-Though they haven t asked about it, I felt having good online presence is a must for 8 year experienced person. Sources from which I can go and learn and contribution I make.
+Though they haven t asked about it, I felt having good online presence is a must for 8 year experienced person. Sources from which I can go and learn, making sure that the contribution I make is visible to the outside world.
 
 Had a good time knowing what are the things to keep in mind. This is to make sure that I ll not lose the bigger picture when working day in and out.
