@@ -5,7 +5,7 @@ date:   2018-02-06 02:21:54 +0530
 tags: plan learning-path expectation-setting
 ---
 
-Recently I attended an interview, irrespective of whether I got selected or not I thought I will just notedown the expectations they had on me as a 8 years experienced software developer.
+I was just thinking (edited) as a years experienced software developer, what would the outside world expect out of me. I thought I can just note it down for my reference,
 
 Having good handson experience, to the level of converting the basic algo approach into code. Finding edge cases and handling it in the code, knowing where the code might fail.
 
